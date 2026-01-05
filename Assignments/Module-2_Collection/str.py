@@ -1,0 +1,1 @@
+mystr="this is python!"
